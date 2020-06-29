@@ -1,0 +1,128 @@
+Diabetic Retinopathy Risk Score Report
+
+                Method used for Weighing Scores : P-Value Grading
+
+                Grade 1 : P-value <0.001
+                Grade 2	:0.001<P-value<0.01
+                Grade 3 : P-value >0.01
+
+                Details of genes and scoring scheme
+
+ GENE :APOE-Apolipoprotein E
+The APOE gene is mapped to chromosome 19 in a cluster with APOC1 and APOC2. Studies have concluded that epsilon4 allele of the APOE gene is a potential risk factor for the severity of retinal hard exudates and visual loss in type 2 diabetic Mexican patients. The higher frequency of visual impairment in epsilon-4 carriers makes it a significant indicator for diagnosing Diabetic Retinopathy.
+ P-value based Grade assigned: 2
+Score calculation = Score calculation = 
+
+ GENE :ALDH2-Aldehyde dehydrogenase 2 family
+  Aldehyde dehydrogenase is the second enzyme of the major oxidative pathway of alcohol metabolism. Mitochondrial aldehyde dehydrogenase 2 (ALDH2) detoxifies reactive aldehydes in the micro- and macrovasculature. Studies and evidences indicate that The ALDH2*2 allele carriers had a significantly higher incidence of DR than the non-carriers. The incidence of DR was significantly higher in the drinkers with the ALDH2*2 allele than in those with the ALDH2*1/*1 genotype.
+ P-value based Grade assigned: 3
+Score calculation = Score calculation = Score calculation = 
+
+ GENE :API5-Apoptosis Inhibitor 5
+This gene encodes an apoptosis inhibitory protein whose expression prevents apoptosis after growth factor deprivation. Studies have identified several single-nucleotide polymorphisms (SNPs) in this gene with modest effects on diabetic retinopathy. It was determined that rs899036 near API5 is associated with severe diabetic retinopathy.
+ P-value based Grade assigned: 2
+Score calculation = Score calculation = 
+
+ GENE :ADM- adrenomedullin
+The protein encoded by this gene is a preprohormone which is cleaved to form two biologically active peptides, one of which is adrenomedullin (AM). Evidences suggest that Type 2 diabetic patients with retinopathy have significantly greater AM levels than those without DR or not suffering from T2DM. Research findings indicate that circulating AM is increased in type 2 diabetic patients and that increase correlates with poor glucose metabolic control and presence of retinopathy.
+ P-value based Grade assigned: 1
+Score calculation = 
+
+ GENE :AKR1B1-Aldo-keto reductase family 1, member B1 (aldose reductase)
+This gene encodes a member of the aldo/keto reductase superfamily, which catalyzes the reduction of the aldehyde form of glucose, and is thereby implicated in the development of diabetic complications by catalyzing the reduction of glucose to sorbitol. Variations within the AKR1B1 gene are highly significantly associated with diabetic retinopathy development irrespective of ethnicity. The aldose reductase (AKR1B1) gene was found to have the largest number of polymorphisms significantly associated with diabetic retinopathy. The z-2 microsatellite was found to confer risk in type 2 diabetes and z+2 to confer protection.
+ P-value based Grade assigned: 1
+Score calculation = Score calculation = 
+
+ GENE :ARHGAP22-Rho GTPase activating protein 22
+This gene encodes a member of the GTPase activating protein family, and the encoded protein is insulin-responsive. Research conducted on Han Chinese Population indicated that two susceptibility SNPs in ARHGAP22 were found to be associated with an increased risk of DR-rs10491034 and rs3844492.
+ P-value based Grade assigned: 3
+Score calculation = Score calculation = 
+
+ GENE :C5-complement component 5
+This gene encodes a component of the complement system, a part of the inte immune system that plays an important role in inflammation, host homeostasis, and host defence against pathogens. The association of C5 SNPs with proliferative diabetic retinopathy (PDR) of type 2 diabetes (T2D) was investigated, and it was reported that C5 rs2269067 GG genotype confers risk for PDR of T2D in Chinese Han population and is associated with an elevated C5 mRNA expression and an increased IL-6 production.
+ P-value based Grade assigned: 1
+Score calculation = Score calculation = 
+
+ GENE :CDKAL1-CDK5 regulatory subunit associated protein 1-like 1
+The protein encoded by this gene is a member of the methylthiotransferase family. Studies concluded that rs7756992 was one of the most commonly reported SNPs in CDKAL1, with the major G allele conferring a higher risk while the minor A allele conferred a lower risk. The study was conducted on Chinese patients.
+ P-value based Grade assigned: 1
+Score calculation = Score calculation = 
+
+ GENE :CHN2-chimerin 2
+This gene encodes a guanosine triphosphate (GTP)-metabolizing protein, activity of which is important in cell proliferation and migration. Studies aimed at finding association of SNP’s from this gene found CPVL/CHN2 rs39059 genetic variant to be associated with diabetic retinopathy in the Chinese type 2 diabetic patients. The rs39059 G allele was found to be frequent in DR patients, with the frequency being higher in those suffering from severe diabetic retinopathy.
+ P-value based Grade assigned: 2
+Score calculation = Score calculation = 
+
+ GENE :CNR1-canbinoid receptor 1
+This gene encodes one of two canbinoid receptors, found to be involved in the canbinoid-induced CNS effects (including alterations in mood and cognition). Studies on association of polymorphism in CNR1 gene in type 2 diabetes and its complications revealed that The A allele carrier genotype was present in 50% of patients with DR versus 35% of no DR patients. Hence the presence of A allele for this genetic polymorphism can prove to be a significant indicator for Diabetic Retinopathy.
+ P-value based Grade assigned: 1
+Score calculation = 
+
+ GENE :DPP4-dipeptidyl-peptidase 4
+The protein encoded by this gene is identical to adenosine deaminase complexing protein-2, and to the T-cell activation antigen CD26. Research findings indicated that serum LECT2 level is negatively associated with the presence of DR and suggest that low circulating LECT2 level is a risk factor for DR. 
+ P-value based Grade assigned: 1
+Score calculation = 
+
+ GENE :XRCC1-X-ray repair complementing defective repair in Chinese hamster cells 1
+The protein encoded by this gene is involved in the efficient repair of D single-strand breaks formed by exposure to ionizing radiation and alkylating agents.  Research aimed at exploring the association between DR and polymorphisms in oxidative stress-related genes, revealed that the Arg399Gln polymorphism contributed an elevated to risk for DR in South-Indian T2DM individuals. The presence of 399Gln allele was associated with an enhanced risk for DR in South Indian T2DM subjects.
+ P-value based Grade assigned: 3
+Score calculation = Score calculation = 
+
+ GENE :TNFRSF11B-tumor necrosis factor receptor superfamily member 11b
+The protein encoded by this gene is a member of the TNF-receptor superfamily. Recent studies indicate that this gene acts as an important regulatory molecule in the vasculature. Evidences suggest that the carriers of the CC genotype (rs2073618) have a 2.2 higher risk for diabetic retinopathy than those with either the CG genotype or the GG genotype. Hence presence of CC genotype is a good indicator to detect DR.
+ P-value based Grade assigned: 3
+Score calculation = Score calculation = 
+
+ GENE :GSTT1-glutathione S-transferase theta 1
+The protein encoded by this gene is a member of a superfamily of proteins that catalyze the conjugation of reduced glutathione to a variety of electrophilic and hydrophobic compounds. Studies have been conducted on Caucasian patients to figure out the association genetic polymorphisms: polymorphic deletions of glutathione S-transferases with diabetic retinopathy.  It was concluded that individuals homozygous for the deletion of GSTT1 are at an ≈ 2-fold-greater risk of DR. 
+ P-value based Grade assigned: 1
+Score calculation = Score calculation = 
+
+ GENE :ADIPOQ-adiponectin, C1Q and collagen domain containing
+This gene is expressed in adipose tissue exclusively. It encodes a protein that  circulates in the plasma and is involved with metabolic and hormonal processes. In It was found that in Asian South Indians with type 2 diabetes, serum adiponectin levels are associated with microvascular complications and also with the severity of retinopathy
+ P-value based Grade assigned: 2
+Score calculation = Score calculation = 
+
+ GENE :CYP2C19-cytochrome P450 family 2 subfamily C member 19
+This gene encodes a member of the cytochrome P450 superfamily of enzymes. Studies investigated the association between CYP2C19 polymorphisms and an increased risk of diabetic retinopathy (DR). The CYP2C19 poor metabolizer genotype was found to be an independent risk factor for DR only in women when patients were stratified by sex. 
+ P-value based Grade assigned: 1
+Score calculation = Score calculation = 
+
+ GENE :- ACE - Angiotensin Converting Enzyme 
+ This gene encodes an enzyme involved in catalyzing the conversion of angiotensin I into a physiologically active peptide angiotensin II.Hence a reported increase in ACE serum levels can serve as an indicator for detection 
+ DEGREES OF FREEDOM : 4 
+
+
+ GENE :ACE-Angiotensin Converting Enzyme
+
+ P-value based Grade assigned: 1
+
+
+ GENE :VEGFA-vascular endothelial growth factor A
+This gene is a member of the PDGF/VEGF growth factor family and encodes a protein that is often found as a disulfide linked homodimerT2DM patients with retinopathy have higher levels of circulating inflammatory cytokines and VEGF compared to patients without retinopathy.
+ P-value based Grade assigned: 1
+Score calculation = 
+
+ GENE :FTO-helllo
+helllo
+ P-value based Grade assigned: 1
+Score calculation =  Total score thus calculated :13.0
+Gene wise score assigned BASED ON YOUR RESPONSES 
+ ACE -> 0 
+ DPP4 -> 0 
+ APOE -> 2.0 
+ VEGFA -> 0 
+ ADM -> 0 
+ CY2PC19 -> 0 
+ CHN2 -> 0 
+ XRCC1 -> 0 
+ TNFRSF11B -> 0 
+ ADIPOQ -> 0 
+ CNR1 -> 0 
+ AKR1B1 -> 0 
+ ALDH2 -> 11.0 
+ FTO -> 0 
+ CDKAL1 -> 0 
+ API5 -> 13.0 
+ ARHGAP22 -> 0 
+ GSTT1 -> 0 

@@ -1,0 +1,9 @@
+Diabetic Retinopathy Risk Score Report
+
+                Method used for Weighing Scores : STRING INTERATIONS BETWEEN SELECT GENES
+
+                The scores are first weighted by the degrees of freedom of each gene.
+                Then according to the data available on interactions,  a certain multiplier is used for pairs of genes occuring together in a patient as follows :
+                {'ACE_DPP4': 2, 'ACE_APOE': 4, 'ACE_VEGFA': 4, 'ACE_ADM': 2, 'ADIPOQ_CNR1': 2, 'AKR1B1_ALDH2': 16, 'CDKAL1_FTO': 2}
+
+                Details of genes and scoring scheme
