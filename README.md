@@ -4,6 +4,9 @@ The current project aims to deliver a probabilistic score based on the genetic i
 
 DetectRetino has been developed as a Desktop App completely using Python and Kivy.
 
+The dictionary of questions prepared by us and the corresponding raw unweighted scoring scheme can be found in Diabetic Retinopathy Detection.docx file.
+
+
 References :
 
 
