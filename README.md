@@ -5,6 +5,8 @@ The current project aims to deliver a probabilistic score based on the genetic i
 DetectRetino has been developed as a Desktop App completely using Python and Kivy.
 
 References :
+
+
 •	Rani, J., Mittal, I., Pramanik, A., Singh, N., Dube, N., Sharma, S., … Ramachandran, 
 S. (2017). T2DiACoD: A Gene Atlas of Type 2 Diabetes Mellitus Associated 
 Complex Disorders. Scientific Reports, 7(1). doi: 10.1038/s41598-017-07238-0 
