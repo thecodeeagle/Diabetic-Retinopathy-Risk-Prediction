@@ -1,9 +1,9 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Diabetic-Retinopathy-Detection
+# Diabetic-Retinopathy-Risk-Prediction
 
-The current project aims to deliver a probabilistic score based on the genetic information entered by the patient pertaining to selected genes. DetectRetino, the GUI based software developed as an outcome of this project combines all the skills and techniques learnt in practice school so far to deliver the same objective. The user-interface is designed in such a way that the user only needs to enter select information and fill in few multiple-choice questions per gene pertaining to allele type, SNP polymorphisms, ethnicity, gender and lifestyle habits. The program based on the algorithm then calculates a risk score automatically indicating the probability of the patients having Diabetic Retinopathy.
+The current project aims to deliver a probabilistic score based on the genetic information entered by the patient pertaining to selected genes. DetectRetino, the GUI based software developed as an outcome of this project combines all the skills and techniques learnt in my practice school(CSIR-Institute of Genomics and Integrative Biology), so far to deliver the same objective. The user-interface is designed in such a way that the user only needs to enter select information and fill in few multiple-choice questions per gene pertaining to allele type, SNP polymorphisms, ethnicity, gender and lifestyle habits. The program based on the algorithm then calculates a risk score automatically indicating the probability of the patients having Diabetic Retinopathy.
 
 DetectRetino has been developed as a Desktop App completely using Python and Kivy.
 
@@ -18,8 +18,14 @@ With some basic steps to follow, you can easily run the software on your PC/Lapt
 * Fork this repositiory to your github account.
 * Clone the repo
    ```sh
-   git clone 
+   git clone https://github.com/thecodeeagle/Diabetic-Retinopathy-Risk-Prediction.git
    ```
+*  Run the following sequence of commands:
+   ```sh
+   cd Diabetic-Retinopathy-Risk-Prediction
+   python3 GUI.py
+   ```
+  
 
 # References :
 
