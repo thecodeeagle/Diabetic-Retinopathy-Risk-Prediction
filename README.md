@@ -1,5 +1,5 @@
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/ashlesha-kumar-bitsp/]
 
 # Diabetic-Retinopathy-Detection
 
