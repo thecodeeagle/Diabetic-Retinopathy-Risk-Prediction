@@ -12,6 +12,14 @@ The dictionary of questions prepared by us and the corresponding raw unweighted 
 * Python==3.7.1
 * Kivy==1.11.1
 
+# Getting Started
+With some basic steps to follow, you can easily run the software on your PC/Laptop:
+# Installation:
+* Fork this repositiory to your github account.
+* Clone the repo
+   ```sh
+   git clone 
+   ```
 
 # References :
 
