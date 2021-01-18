@@ -18,13 +18,16 @@ With some basic steps to follow, you can easily run the software on your PC/Lapt
 * Fork this repositiory to your github account.
 * Clone the repo
    ```sh
-   git clone https://github.com/thecodeeagle/Diabetic-Retinopathy-Risk-Prediction.git
+   git clone https://github.com/[your-github-user-account]/Diabetic-Retinopathy-Risk-Prediction.git
    ```
 *  Run the following sequence of commands:
    ```sh
    cd Diabetic-Retinopathy-Risk-Prediction
    python3 GUI.py
    ```
+* A window as shown below appears, asking you to enter the patient name and the patient ID:
+
+  
   
 
 # References :
