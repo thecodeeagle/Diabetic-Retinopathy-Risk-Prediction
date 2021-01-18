@@ -1,5 +1,5 @@
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/ashlesha-kumar-bitsp/]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 # Diabetic-Retinopathy-Detection
 
@@ -22,3 +22,7 @@ Complex Disorders. Scientific Reports, 7(1). doi: 10.1038/s41598-017-07238-0
 
 •	 T2DiACoD: Gene Atlas. (n.d.). Retrieved from http://t2diacod.igib.res.in
 
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/thecodeeagle/Diabetic-Retinopathy-Risk-Prediction/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/ashlesha-kumar-bitsp/
